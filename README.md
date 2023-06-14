@@ -1,11 +1,11 @@
-About r-gitcreds
-================
+About r-gitcreds-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gitcreds-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/gitcreds
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gitcreds-feedstock/blob/main/LICENSE.txt)
 
 Summary: Query, set, delete credentials from the 'git' credential store. Manage 'GitHub' tokens and other 'git' credentials. This package is to be used by other packages that need to authenticate to 'GitHub' and/or other 'git' repositories.
 
